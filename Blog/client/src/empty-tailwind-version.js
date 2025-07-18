@@ -1,0 +1,1 @@
+export default '3.4.3'; // or just empty string ''
