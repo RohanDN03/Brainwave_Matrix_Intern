@@ -21,6 +21,7 @@ A full-stack blog application built using the MERN stack during my internship at
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT + Firebase (for Google OAuth)
+- **Image Storage**: [Cloudinary](https://cloudinary.com/)
 
 ---
 
